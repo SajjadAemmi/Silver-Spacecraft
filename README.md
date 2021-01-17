@@ -1,6 +1,6 @@
-# Silver-Spacecraft-Game
-Sample Silver Spacecraft Game with Python
+# Silver-Spacecraft
+Silver Spacecraft Game with Python
 
-using pygame library
+use PyGame library, RaspberryPi and distance sensor for play
 
-![Screenshot](screenshot.png)
+![Screenshot](distance_sensor_bb.svg)

@@ -4,8 +4,8 @@ import random
 
 pygame.init()
 
-display_width = 800
-display_height = 600
+display_width = 1280
+display_height = 720
 
 spacecraft_width = 48
 spacecraft_height = 48
